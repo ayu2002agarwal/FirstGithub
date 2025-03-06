@@ -1,3 +1,3 @@
 # FirstGithub<br>
-Author - Ayush Agarwal
+Author - Ayush Agarwal<br>
 This is my first Git repository
